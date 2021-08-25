@@ -1,8 +1,10 @@
 {
+    {
     "B_Name": "Pits of Joy",
     "P_Name": "Organic deodorant",
     "Short_Description": "A unique formulation of certified organic ingredients, that effectively provides long-lasting prevention against odour.",
     "Price": "$14.40-$16.00",
     "Certifications": "https://randomuser.me/api/portraits/women/62.jpg",
     "Packaging": "This product is packaged using recycled glass and a tin lid",          
+    }
 }
