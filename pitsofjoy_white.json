@@ -1,5 +1,4 @@
-[
-    {
+{
     "B_Name": "Pits of Joy",
     "P_Name": "Organic deodorant",
     "Short_Description": "A unique formulation of certified organic ingredients, that effectively provides long-lasting prevention against odour.",
@@ -8,5 +7,4 @@
     "P_Image": "https://amishofficial.github.io/jsonapitest/PoJ.png",
     "Certifications": "https://amishofficial.github.io/jsonapitest/VeganCertified.png",
     "Packaging": "This product is packaged using recycled glass and a tin lid"         
-    }
-]
+}
